@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.grafico-temp{
+    position: relative;
+    width: 50%;
+}
+
+.grafico-hum{
+    position: relative;
+    width: 50%;
+}
